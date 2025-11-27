@@ -1,0 +1,121 @@
+{
+  "VD001": {
+    "name": "Masala Dosa",
+    "category": "Breakfast",
+    "price": 120.00,
+    "ingredients": {
+      "rice": 0.15,
+      "lentils": 0.05,
+      "potatoes": 0.1,
+      "onions": 0.05,
+      "spices": 0.02,
+      "oil": 0.03
+    },
+    "description": "Crispy fermented crepe with spiced potato filling",
+    "is_vegetarian": true,
+    "preparation_time": 15
+  },
+  "VD002": {
+    "name": "Idli Sambar",
+    "category": "Breakfast",
+    "price": 80.00,
+    "ingredients": {
+      "rice": 0.1,
+      "lentils": 0.08,
+      "vegetables": 0.1,
+      "spices": 0.02,
+      "oil": 0.01
+    },
+    "description": "Steamed rice cakes with lentil vegetable stew",
+    "is_vegetarian": true,
+    "preparation_time": 10
+  },
+  "VD003": {
+    "name": "Vegetable Biryani",
+    "category": "Main Course",
+    "price": 150.00,
+    "ingredients": {
+      "rice": 0.25,
+      "vegetables": 0.2,
+      "spices": 0.03,
+      "oil": 0.02,
+      "ghee": 0.01
+    },
+    "description": "Fragrant rice dish with mixed vegetables",
+    "is_vegetarian": true,
+    "preparation_time": 20
+  },
+  "NV001": {
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "price": 220.00,
+    "ingredients": {
+      "rice": 0.2,
+      "chicken": 0.15,
+      "spices": 0.04,
+      "oil": 0.02,
+      "ghee": 0.01,
+      "yogurt": 0.05
+    },
+    "description": "Aromatic basmati rice with tender chicken pieces",
+    "is_vegetarian": false,
+    "preparation_time": 30
+  },
+  "NV002": {
+    "name": "Fish Curry Meals",
+    "category": "Main Course",
+    "price": 180.00,
+    "ingredients": {
+      "rice": 0.15,
+      "fish": 0.2,
+      "coconut": 0.08,
+      "spices": 0.03,
+      "oil": 0.02
+    },
+    "description": "Traditional fish curry with rice",
+    "is_vegetarian": false,
+    "preparation_time": 25
+  },
+  "NV003": {
+    "name": "Mutton Sukka",
+    "category": "Main Course",
+    "price": 280.00,
+    "ingredients": {
+      "mutton": 0.25,
+      "coconut": 0.06,
+      "spices": 0.05,
+      "oil": 0.03
+    },
+    "description": "Dry mutton preparation with coconut",
+    "is_vegetarian": false,
+    "preparation_time": 35
+  },
+  "NV004": {
+    "name": "Prawn Fry",
+    "category": "Starter",
+    "price": 240.00,
+    "ingredients": {
+      "prawns": 0.2,
+      "spices": 0.03,
+      "oil": 0.02
+    },
+    "description": "Spicy fried prawns",
+    "is_vegetarian": false,
+    "preparation_time": 15
+  },
+  "NV005": {
+    "name": "Egg Curry",
+    "category": "Main Course",
+    "price": 130.00,
+    "ingredients": {
+      "eggs": 0.15,
+      "onions": 0.08,
+      "tomatoes": 0.06,
+      "spices": 0.02,
+      "oil": 0.02
+    },
+    "description": "Boiled eggs in spicy gravy",
+    "is_vegetarian": false,
+    "preparation_time": 20
+  }
+}
